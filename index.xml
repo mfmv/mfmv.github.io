@@ -34,5 +34,14 @@
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
+    <item>
+      <title>Encargo 1 TDP</title>
+      <link>https://mfmv.github.io/docs/encargo1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mfmv.github.io/docs/encargo1/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
   </channel>
 </rss>
