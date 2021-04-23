@@ -17,20 +17,21 @@
     </item>
     
     <item>
+      <title>Lecturas</title>
+      <link>https://mfmv.github.io/docs/lecturas/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mfmv.github.io/docs/lecturas/</guid>
+      <description>Presentacion Lecturas La Cocina del Futuro
+ Ver Pantalla Completa  function myFunction(id) { document.getElementById(id).classList.add(&#34;full-screen&#34;); } document.addEventListener(&#39;keydown&#39;, function(event){ if(event.key === &#34;Escape&#34;){ document.getElementById(&#39;pdf-hugo&#39;).classList.remove(&#34;full-screen&#34;); } });  </description>
+    </item>
+    
+    <item>
       <title>Tabajo Grupal U1</title>
       <link>https://mfmv.github.io/docs/trabajo-grupal-u1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://mfmv.github.io/docs/trabajo-grupal-u1/</guid>
-      <description>FOBIS</description>
-    </item>
-    
-    <item>
-      <title>Tabajo Grupal U1</title>
-      <link>https://mfmv.github.io/docs/trabajo-grupal/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://mfmv.github.io/docs/trabajo-grupal/</guid>
       <description>FOBIS</description>
     </item>
     
@@ -49,9 +50,9 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://mfmv.github.io/docs/unidad-2/</guid>
-      <description>Presentacion Entrevistas    Enttrega 01 Recap    Recap1
+      <description>Presentacion Entrevistas    Entrega 01 &amp;ldquo;Recap&amp;rdquo;    Recap1
       Recap2
-                                 </description>
+                                 Ejercicios Tutoriales  Ver Pantalla Completa  function myFunction(id) { document.</description>
     </item>
     
     <item>
